@@ -8,7 +8,7 @@ Features
 
 How to use
 ----------
-	1. Install rubygem, rss, and open-uri
+	1. Install rubygem, json, rss, and open-uri
 	2. Download two .rb files
 	3. Open weather.rb and fill in your ACCOUNT, PASSWORD, and APIKEY
 	4. Have fun! (Maybe you would like to add this into crontab)
